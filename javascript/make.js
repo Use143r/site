@@ -6,7 +6,7 @@ if (hourNow > 18) {
     greeting = 'Вечер добрый! пидарас';
 }   
 else if (hourNow >  12 ) {
-    greeting = 'ДОбРый день, козлина!';
+    greeting = 'Добрый день, козлина!';
 }   
 else if (hourNow >  2 ) {
     greeting = 'Хули заперся в такое время?';
